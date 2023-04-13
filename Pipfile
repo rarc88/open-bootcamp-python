@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tk-tools = "*"
+django = "*"
+psycopg2-binary = "*"
+psycopg2 = "*"
+uuid = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
